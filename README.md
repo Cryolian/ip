@@ -77,8 +77,6 @@ As with *mark/unmark*, the Id of the task to be deleted must first be obtained. 
 
 Once deleted, said task **CANNOT** be retrieved.
 
-# Known Issues
--Chatbot has little to no personality (cause I have no creativity. :upside_down_face: )
 
 
 
